@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { buildSchema } from "type-graphql";
 import "reflect-metadata";
 import "./utils/connection";
